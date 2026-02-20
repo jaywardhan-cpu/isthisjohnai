@@ -1,0 +1,7 @@
+{
+  "name": "Isthisjohn AI",
+  "description": "An elite sales training platform based on 7th Level's NEPQ methodology, featuring high-pressure prospect simulations and AI-powered coaching feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
